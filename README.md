@@ -40,7 +40,7 @@ Realiza cualquier ajuste o conversión necesaria en las columnas (por ejemplo, c
 
 **Fase 3: Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo**
 
-*Objetivo del Ejercicio: Utilizando un conjunto de datos que hemos compartido, se busca evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes. Para ello, los pasos que deberas seguir son:*
+*Objetivo del Ejercicio:* Utilizando un conjunto de datos que hemos compartido, se busca evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes. Para ello, los pasos que deberas seguir son:
 
 *Preparación de Datos:*
 
